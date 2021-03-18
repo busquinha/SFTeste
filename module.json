@@ -197,7 +197,7 @@
       "entity": "Scene"
     }
   ],
-  "url": "www.btwings.com",
-  "manifest": "",
+  "url": "https://github.com/busquinha/SFTeste",
+  "manifest": "https://raw.githubusercontent.com/busquinha/SFTeste/main/module.json",
   "download": ""
 }
